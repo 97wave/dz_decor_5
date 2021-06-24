@@ -1,0 +1,13 @@
+2021-06-24 18:15:20.037829
+2021-06-24 18:19:27.253828 <function square_x at 0x00000277E25AFA60>
+2021-06-24 18:20:02.208829 square_x
+2021-06-24 18:20:30.690829 square_x(5)
+2021-06-24 18:21:22.190829 square_x(6 = 36)
+2021-06-24 18:29:10.575125 square_x(((5,), {})) = 25
+2021-06-24 18:41:50.026306 square_x(args=(6,), kwargs={}) = 36
+2021-06-24 18:55:46.131599 calculate_salary(args=(), kwargs={}) = None
+2021-06-24 19:02:28.247598 calculate_salary(args=(), kwargs={}) = None
+2021-06-24 19:03:26.233598 calculate_salary(args=(), kwargs={}) = None
+2021-06-24 19:03:41.673603 calculate_salary(args=(), kwargs={}) = None
+2021-06-24 19:04:45.111599 calculate_salary(args=(), kwargs={}) = None
+2021-06-24 19:04:45.115599 get_employees(args=(), kwargs={}) = None
